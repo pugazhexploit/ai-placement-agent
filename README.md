@@ -1,3 +1,9 @@
+# CampusHire 🎓
+### College Placement Management & Career-Readiness Platform
+
+**CampusHire** is a modern, responsive web application designed for engineering colleges and university placement cells. It seamlessly connects placement operations (company drives, student applications, status pipelines) with daily student career preparation (Quantitative Aptitude, Technical Practice, Critical Thinking drills, and AI-ready Mock Interviews).
+
+---
 
 ## 🚀 Key Features
 
